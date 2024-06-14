@@ -7,4 +7,8 @@
     <RootNamespace>Social_Media_Links_app</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
